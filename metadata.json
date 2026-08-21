@@ -1,0 +1,6 @@
+{
+  "name": "DAMS - Deposit Management System",
+  "description": "Sistem Retensi Deposito & Rekomendasi Cross-Selling KAD (Kredit Agunan Deposito) berbasis Analisis Cashflow Gap dan Otomasi WhatsApp RM.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
